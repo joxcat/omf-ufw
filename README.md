@@ -26,7 +26,7 @@ $ ufw
 
 # License
 
-[MIT][mit] © [Johan Planchon][author] et [al][contributors]
+[MIT][mit] © [Johan Planchon][author]
 
 
 [mit]:            https://opensource.org/licenses/MIT
